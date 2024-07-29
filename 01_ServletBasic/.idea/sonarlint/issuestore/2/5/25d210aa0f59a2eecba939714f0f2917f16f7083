@@ -1,0 +1,13 @@
+
+v
+java:S1854":Remove this useless assignment to local variable "intAge".(ç¿¤€J$6e84ba03-3248-42dd-b407-898a8b207368
+•
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ç¿¤€J$bacbb513-ab8b-4ce9-8279-1adade905eed
+g
+java:S1481"+Remove this unused "intAge" local variable.(ç¿¤€J$d2423b78-c9f9-4963-aa91-5c45476e964d
+Œ
+java:S1989)"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçÞJ$9bfe5ddc-c1c4-4a56-acce-3b04b10005b7
+­
+java:S1989<"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ÜÔ»ùÿÿÿÿJ$57de2f3c-482f-4a97-8acc-b71173e68ea0
+ 
+java:S1989="_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿJ$b7174802-8b88-4c70-9fb4-56aa8ffc9ef6

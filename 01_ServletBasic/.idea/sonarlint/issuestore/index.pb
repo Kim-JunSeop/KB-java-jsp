@@ -1,8 +1,6 @@
 
 f
 6src/main/java/com/multi/servletbasic/HelloServlet.java,1\e\1eb3b17d00bf1d8e78290c93376614695628a5ea
-I
-src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 J
@@ -48,8 +46,6 @@ Q.idea/sonarlint/securityhotspotstore/5/1/515e7c15e37e2b5f8a71ff8efc473e1bddaed5
 Q.idea/sonarlint/securityhotspotstore/1/e/1eb3b17d00bf1d8e78290c93376614695628a5ea,1\c\1cc20d719bc719f5e9d3e5a40a84b14549b147ff
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-Å
-Q.idea/sonarlint/securityhotspotstore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded,b\a\ba553ac59b6707e71c75d153a30b48955826938d
 Å
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 Å
