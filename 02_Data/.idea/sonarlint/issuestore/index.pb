@@ -3,8 +3,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ^
 .src/main/java/com/multi/data/HelloServlet.java,c\d\cd106e8f3f6154f6a7e04ff4da0b2b915e835d50
-I
-src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
 R
 "src/main/webapp/WEB-INF/index.html,c\6\c68e776707802c1fa3cf6034a2262486f73bfea3
 p
@@ -17,3 +15,5 @@ s
 Csrc/main/java/com/multi/data/controller/ex02/JoinMemberServlet.java,2\6\26aee730585b0f6006194a4e094df4bfcb3fdbea
 u
 Esrc/main/java/com/multi/data/controller/ex02/SendRedirectServlet.java,9\8\983be4685e7239b9a2fb5f4597accc6107697b83
+r
+Bsrc/main/java/com/multi/data/controller/ex03/ShareDataServlet.java,3\3\334bf8f1c9f6aa5781ad8a38f4e2605800daeec3

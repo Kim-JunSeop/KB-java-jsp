@@ -41,7 +41,7 @@ import javax.servlet.http.HttpSession;
 
 
 @WebServlet("/share.do")
-public class ShareDataServlet extends HttpServlet{
+public class  ShareDataServlet extends HttpServlet{
 	private static final long serialVersionUID = 1L;
 	
 	public static final String CONTEXT_ID1 = "CONTEXT_ID1";
